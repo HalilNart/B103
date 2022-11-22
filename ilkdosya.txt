@@ -3,3 +3,6 @@ Merhaba
 bu bir deneme yazısıdır.
 
 git gitgub ikinci gün ilk deneme
+
+ikinci versiyon için yazılar yazıyorum
+
